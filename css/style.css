@@ -1,0 +1,32 @@
+body{
+    /* background: moccasin; */
+    color:darkmagenta;
+    font-family: Arial;
+    text-align: center;
+    height:100vh;
+    background: linear-gradient(45deg, orange 60%, cyan);
+    
+}
+
+.container{
+    border:navy 2px solid;
+    border-radius: 50% 20% / 10% 40%; ;
+    padding: 10px;
+    margin: 20%;
+    font-size: 30px;
+}
+
+
+.rzad{
+    display: flex;
+    justify-content: center;
+}
+
+.kol{
+    height: 70px;
+    width: 70px;
+    border: mediumblue 1px solid;
+    padding: 3px;
+    vertical-align: middle;
+    margin: 10px;
+}
